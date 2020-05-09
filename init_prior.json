@@ -1,0 +1,1 @@
+{"retinanet_R_101_FPN": 1e-5, "retinanet_R_50_FPN": 1e-5, "faster_rcnn_R_50_FPN": 2e-4, "faster_rcnn_R_101_FPN": 2e-4, "retinanet_voc_R_50_FPN": 7e-5, "faster_rcnn_voc_R_50_FPN": 5e-5}
